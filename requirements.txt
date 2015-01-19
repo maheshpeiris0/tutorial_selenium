@@ -1,5 +1,10 @@
 argparse==1.2.1
+ddt==0.8.1
+decorator==3.4.0
+docutils==0.12
 pbr==0.10.7
+robotframework==2.8.6
+robotframework-selenium2library==1.6.0
 selenium==2.44.0
 six==1.9.0
 stevedore==1.2.0
@@ -7,3 +12,4 @@ virtualenv==12.0.5
 virtualenv-clone==0.2.5
 virtualenvwrapper==4.3.2
 wsgiref==0.1.2
+xlrd==0.9.3
